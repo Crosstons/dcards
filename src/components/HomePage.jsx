@@ -2,7 +2,7 @@ import React from 'react';
 
 function HomePage() {
   return (
-    <div className="bg-white border-gray-200 h-screen flex flex-col justify-center items-center">
+    <div className="bg-gray-100 border-gray-200 h-screen flex flex-col justify-center items-center">
       <div className="space-y-4 max-w-xl w-full text-center justify-center">
         <button 
           className="w-full py-6 text-white font-semibold text-xl rounded-lg hover:bg-emerald-700 focus:ring-4 focus:outline-none focus:ring-emerald-300"
